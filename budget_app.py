@@ -168,11 +168,11 @@ with col2:
 
 st.divider()
 
-st.markdown("### 💡 Singapore Budgeting Tips")
+st.markdown("### 💡 Some Basic Budgeting Tips!!")
 st.success("✅ Follow the **50/30/20 rule** — 50% needs, 30% wants, 20% savings")
 st.info("📊 Use **CPF wisely** — understand your OA, SA and MA accounts")
 st.warning("⚠️ **Emergency fund** — aim for at least 6 months of expenses saved")
-st.error("🚨 **Avoid lifestyle inflation** — just because you earn more doesn't mean you should spend more")
+st.error("🚨 **Avoid lifestyle inflation** — just because you earn more doesn't mean you should spend more!")
 
 st.divider()
-st.caption("💰 Budget Tracker | Built with Python & Streamlit | By Ee Jer / BrewLedger")
+st.caption("💰 Budget Tracker | Built with Python & Streamlit | By L.E.J / BrewLedger")
